@@ -201,7 +201,7 @@ const anish = {
 
 ### 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/0anish0/0anish0/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/0anish0/0anish0/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
