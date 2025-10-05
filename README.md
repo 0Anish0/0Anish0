@@ -132,13 +132,11 @@ const anish = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=0anish0&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
-
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=0anish0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=0anish0&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=0anish0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=0anish0&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" />
 </div>
 
 <div align="center">
