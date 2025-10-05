@@ -1,120 +1,214 @@
 ![Banner](banner.png)
 
----
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Anish Kumar Pandey</h1>
-<h3 align="center">A passionate Full-Stack (MERN) Developer from India</h3>
+# 👋 Hey there! I'm Anish Kumar Pandey
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+AI%2FML+Wizard+🧙‍♂️;Building+Intelligent+Applications;From+MERN+to+AI+%2B+Cloud+Mastery" alt="Typing SVG" />
 
-## About Me
+[![Profile Views](https://komarev.com/ghpvc/?username=0anish0&label=Profile%20views&color=00D9FF&style=for-the-badge)](https://github.com/0anish0)
 
-🚀 I'm a passionate Full-Stack Developer with expertise in the MERN (MongoDB, Express, React, Node.js) stack. 
-
-🌟 I'm on a mission to craft stunning and user-friendly web applications that tackle real-world challenges. 
-
-🎓 My coding journey started in college, and it's been an exhilarating ride ever since. 
-
-🌐 Let's connect and collaborate on exciting projects! Together, we can turn ideas into digital magic. 💻✨
+</div>
 
 ---
 
-## Current Projects
+## 🚀 About Me
 
-- **BlogHub:** A collaborative blogging platform where writers can share their thoughts and ideas with the world. [View on GitHub](https://github.com/0Anish0/CRT-Internship)
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
----
+```typescript
+const anish = {
+  title: "Full Stack AI/ML Developer",
+  location: "India 🇮🇳",
+  journey: {
+    started: "College Days",
+    then: "MERN Stack Developer",
+    now: "AI/ML Wizard + Full Stack Engineer"
+  },
+  passion: [
+    "🤖 Building Intelligent AI Applications",
+    "💬 Crafting Smart Chatbots",
+    "☁️ Cloud-Native Architectures",
+    "📱 Cross-Platform Mobile Apps",
+    "🌐 Scalable Web Solutions"
+  ],
+  currentFocus: "LLM Applications & RAG Systems",
+  funFact: "Once debugged code at 30,000 feet ✈️☕"
+};
+```
 
-<img align="right" alt="Coding" width="500" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
+### 🎯 What I Do
 
-## Skills
-
-### Languages
-
-<p align="left">
-  <img src="https://cmoreira.net/logos-showcase/wp-content/uploads/sites/3/2013/03/512px-Unofficial_JavaScript_logo_2.svg_-400x400.png" alt="JavaScript" height="40"/>
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/java-logo-png-transparent.png" alt="Java" width="40" height="40"/>
-  <img src="https://www.pinclipart.com/picdir/big/539-5392404_transparent-c-language-logo-png-clipart.png" alt="C" width="40" height="40"/>
-</p>
-
-### Frontend
-
-<p align="left">
-  <img src="https://www.appstirr.com/assets/images/services/react-native/react-main-banner.png" alt="React.js" height="40">
-  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" alt="HTML" width="45" height="45"/>
-  <img src="https://www.armortechs.com/upload/image/blog/css-variables-css-3-logo.png" alt="CSS" width="45" height="45"/>
-</p>
-
-### Backend
-
-<p align="left">
-  <img src="https://th.bing.com/th/id/R.d42672d4d185739d26257ed5c653c740?rik=dvh0VB%2fEWz20hQ&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fnodejs-logo-png-nice-images-collection-node-js-desktop-wallpapers-370.png&ehk=bMmyN3n62enzXql6L4A5EzHc90tJxK%2bKcr6GMACTfRk%3d&risl=&pid=ImgRaw&r=0" alt="Node.js" width="40" height="40"/>
-  <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="Express.js" width="40" height="40"/>
-</p>
-
-### Database
-
-<p align="left">
-  <img src="https://www.opc-router.com/wp-content/uploads/2021/03/mongodb_thumbnail.png" alt="MongoDB" width="40" height="40"/>
-</p>
-
-### Other Tools
-
-<p align="left">
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" alt="Git" width="40" height="40"/>
-  <img src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png" alt="GitHub" height="40"/>
-  <img src="https://mobilemancerblog.blob.core.windows.net/blog/2020/08/vs-code-logo-transp.png" alt="VS Code" width="40" height="40"/>
-  <img src="https://sdtimes.com/wp-content/uploads/2018/08/logo-glyph.png" alt="Postman" width="40" height="40"/>
-</p>
+- 🧠 **AI/ML Development**: Building intelligent applications with LangChain, RAG systems, and LLM integrations
+- 💬 **Chatbot Architecture**: Creating conversational AI solutions with advanced NLP capabilities
+- ☁️ **Cloud Engineering**: Deploying scalable solutions on AWS, GCP, and Firebase
+- 📱 **Mobile Development**: Cross-platform apps with React Native and Flutter
+- 🔧 **Full Stack Development**: End-to-end web applications with modern tech stacks
 
 ---
 
-## Learning Journey
+## 💻 Tech Arsenal
 
-📚 I'm currently focusing on strengthening my problem-solving skills through an in-depth study of data structures and algorithms. In fact, I'm actively learning advanced data structures and algorithms from NPTEL, which offers high-quality technical courses in various disciplines.
+### 🤖 AI/ML & LLM Stack
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=aiqfome&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_DB-4A90E2?style=for-the-badge&logo=database&logoColor=white)
 
-🌐 Additionally, I'm diving into advanced concepts in the MERN stack (MongoDB, Express.js, React, Node.js) to build robust and scalable web applications. I'm self-driven in this aspect.
+### 🎨 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-🔍 Moreover, I'm delving into the intricacies of Oracle Database Management System as part of my college curriculum, enhancing my proficiency in database management.
+### 📱 Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
---- 
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-## Fun Facts
+### 🗄️ Databases & Backend Services
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFA611?style=for-the-badge&logo=firebase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-- I once debugged a tricky server-side issue while sipping coffee at an altitude of 30,000 feet! ✈️☕️ #CodeAnywhere
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 📊 Analytics & Monitoring
+![PostHog](https://img.shields.io/badge/PostHog-1D4EDD?style=for-the-badge&logo=posthog&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
+
+### 🛠️ Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 ---
 
-## Connect with me:
+## 🎯 Expertise Highlights
 
-<p align="left">
-  <a href="https://twitter.com/Factlogical_Ani?t=dVxCVorUxs0BguqVGLaNYA&s=08" target="blank"><img src="https://imagepng.org/wp-content/uploads/2018/08/twitter-icone.png" alt="Twitter" width="40" height="40"/></a>
-  <a href="https://www.linkedin.com/in/anish-kumar-pandey-57390b190/" target="blank"><img src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" alt="LinkedIn" width="40" height="40"/></a>
-  <a href="https://www.facebook.com/anih.pandey.9" target="blank"><img src="https://chalettheatre.com/img/fb-logo.png" alt="Facebook" width="40" height="40"/></a>
-  <a href="https://www.instagram.com/factlogical_anish/" target="blank"><img src="https://clipart.info/images/ccovers/1516920567instagram-png-logo-transparent.png" alt="Instagram" width="40" height="40"/></a>
-  <a href="https://www.youtube.com/@Factlogical_Anish/about" target="blank"><img src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-6-2.png" alt="YouTube" width="40" height="40"/></a>
-  <a href="https://www.hackerrank.com/anishpandey4576" target="blank"><img src="https://th.bing.com/th/id/OIP.hsVLPEZfP5xoIWmt022h2gHaHa?pid=ImgDet&rs=1" alt="HackerRank" width="40" height="40"/></a>
-  <a href="https://leetcode.com/Anish-Kumar-Pandey/" target="blank"><img src="https://gitlab.soraharu.com/uploads/-/system/project/avatar/50/Snipaste_2022-03-14_18-31-40.png" alt="LeetCode" width="40" height="40"/></a>
-</p>
+<div align="center">
 
----
+| 🤖 AI/ML Engineering | 🌐 Full Stack Development | ☁️ Cloud Architecture |
+|:---:|:---:|:---:|
+| LangChain & LangGraph | React, Next.js, Node.js | AWS & GCP Deployments |
+| RAG Systems | TypeScript/JavaScript | Docker Containerization |
+| Chatbot Development | REST & GraphQL APIs | Serverless Functions |
+| LLM Integrations | Real-time Applications | CI/CD Pipelines |
+| Prompt Engineering | Database Design | Infrastructure as Code |
 
-## GitHub Stats
-
-<p align="left" style="display: flex; justify-content: space-between; overflow-x: auto; -webkit-overflow-scrolling: touch;">
-  <img src="https://github-profile-trophy.vercel.app/?username=0anish0&column=7&margin-w=15&margin-h=15" alt="GitHub Trophy" style="width: 100%; min-width: 1200px;" />
-</p>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=0anish0&show_icons=true&locale=en&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0anish0&show_icons=true&locale=en)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0anish0&label=Profile%20views&color=0e75b6&style=flat" alt="0anish0" /> </p>
+</div>
 
 ---
 
-## Let's Collaborate
+## 🏆 Featured Projects
 
-I'm open to exciting new opportunities and collaborations. Feel free to reach out at [anishpandey4576@gmail.com](mailto:anishpandey4576@gmail.com).
+### 🚀 AI-Powered Applications
+- 💬 **Intelligent Chatbot Systems**: Advanced conversational AI with context awareness
+- 🔍 **RAG-based Knowledge Systems**: Semantic search and document Q&A
+- 🤖 **LLM Integration Platforms**: Custom AI solutions with LangChain
 
 ---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0anish0&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=0anish0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=0anish0&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" />
+</div>
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0anish0&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=0anish0&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-kumar-pandey-57390b190/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Factlogical_Ani?t=dVxCVorUxs0BguqVGLaNYA&s=08)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Factlogical_Anish/about)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/factlogical_anish/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/anih.pandey.9)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/anishpandey4576)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Anish-Kumar-Pandey/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishpandey4576@gmail.com)
+
+</div>
+
+---
+
+## 💼 Open for Opportunities
+
+<div align="center">
+
+```diff
++ 🚀 Full Stack Development
++ 🤖 AI/ML Engineering
++ 💬 Chatbot & LLM Integration
++ ☁️ Cloud Architecture & DevOps
++ 📱 Mobile App Development
+```
+
+**Let's build something amazing together!** 
+
+📧 **Email**: [anishpandey4576@gmail.com](mailto:anishpandey4576@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Dev Quote of the Day
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/0anish0/0anish0/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+⭐️ From [0Anish0](https://github.com/0anish0)
+
+</div>
