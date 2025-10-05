@@ -4,7 +4,7 @@
 
 # 👋 Hey there! I'm Anish Kumar Pandey
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+AI%2FML+Wizard+🧙‍♂️;Building+Intelligent+Applications;From+MERN+to+AI+%2B+Cloud+Mastery" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+AI%2FML+Wizard+🧙‍♂️;Building+Intelligent+Applications;From+MERN+to+AI+%2B+Cloud+Mastery" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=0anish0&label=Profile%20views&color=00D9FF&style=for-the-badge)](https://github.com/0anish0)
 
@@ -201,7 +201,9 @@ const anish = {
 
 ### 🐍 Contribution Snake
 
-![Snake animation](https://github.com/0anish0/0anish0/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/0anish0/0anish0/output/github-contribution-grid-snake-dark.svg)
+
+*Snake animation will appear after GitHub Action runs*
 
 </div>
 
@@ -209,6 +211,6 @@ const anish = {
 
 <div align="center">
 
-⭐️ From [0Anish0](https://github.com/0anish0)
+⭐️ From [Anish Kumar Pandey](https://github.com/0anish0)
 
 </div>
