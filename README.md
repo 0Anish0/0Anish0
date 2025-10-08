@@ -53,7 +53,7 @@ const anish = {
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=aiqfome&logoColor=white)
-![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logo=langfuse&logoColor=white)
 ![Vector DB](https://img.shields.io/badge/Vector_DB-4A90E2?style=for-the-badge&logo=database&logoColor=white)
 
 ### 🎨 Frontend Development
@@ -94,12 +94,23 @@ const anish = {
 ![PostHog](https://img.shields.io/badge/PostHog-1D4EDD?style=for-the-badge&logo=posthog&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
 
+### 📋 Project Management & Collaboration
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
 ### 🛠️ Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
@@ -141,7 +152,7 @@ const anish = {
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0anish0&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0anish0&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="GitHub Activity Graph" style="border-radius: 8px; width: 100%;" />
 
 </div>
 
@@ -199,7 +210,7 @@ const anish = {
 
 ### 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/0anish0/0anish0/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/0anish0/0anish0/output/github-contribution-grid-snake-dark.gif)
 
 *Snake animation will appear after GitHub Action runs*
 

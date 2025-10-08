@@ -17,15 +17,18 @@ jobs:
       - uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-      - uses: Platane/snk@master
+      - uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: 0anish0
-          gif_out_path: output/github-contribution-grid-snake-dark.gif
-          svg_out_path: output/github-contribution-grid-snake-dark.svg
+          outputs: |
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark
+            output/github-contribution-grid-snake-dark.gif?color_snake=purple&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: output
+          commit_message: "Generate snake animation"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
