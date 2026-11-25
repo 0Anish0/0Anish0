@@ -18,19 +18,21 @@
 
 ```typescript
 const anish = {
-  title: "Full Stack AI/ML Developer",
+  title: "AI Full-Stack Engineer",
   location: "India 🇮🇳",
+  experience: "4+ Years",
   journey: {
     started: "College Days",
     then: "MERN Stack Developer",
     now: "AI/ML Wizard + Full Stack Engineer"
   },
   passion: [
-    "🤖 Building Intelligent AI Applications",
+    "🤖 Building Intelligent AI-Powred Applications",
     "💬 Crafting Smart Chatbots",
     "☁️ Cloud-Native Architectures",
     "📱 Cross-Platform Mobile Apps",
-    "🌐 Scalable Web Solutions"
+    "🌐 Scalable Web Solutions",
+    "🏢 Custom CRM, ERP & Enterprise Software Solutions"
   ],
   currentFocus: "LLM Applications & RAG Systems",
   funFact: "Once debugged code at 30,000 feet ✈️☕"
@@ -39,11 +41,19 @@ const anish = {
 
 ### 🎯 What I Do
 
-- 🧠 **AI/ML Development**: Building intelligent applications with LangChain, RAG systems, and LLM integrations
-- 💬 **Chatbot Architecture**: Creating conversational AI solutions with advanced NLP capabilities
-- ☁️ **Cloud Engineering**: Deploying scalable solutions on AWS, GCP, and Firebase
-- 📱 **Mobile Development**: Cross-platform apps with React Native and Flutter
-- 🔧 **Full Stack Development**: End-to-end web applications with modern tech stacks
+- 🧠 **AI & LLM Engineering**: Building production-ready AI applications using LLMs, RAG pipelines, embeddings, vector databases, LangChain, LangGraph, and model integrations.
+
+- 🤖 **Agentic AI & Intelligent Automation**: Developing autonomous AI agents, multi-agent workflows, MCP integrations, tool calling, and intelligent business process automation.
+
+- 📊 **LLMOps & AI Observability**: Implementing LLM tracing, monitoring, evaluation, prompt management, and performance optimization using Langfuse and LangSmith.
+
+- 🏢 **Enterprise Software & SaaS Engineering**: Architecting and developing custom CRM, ERP, HRMS, EMR, and multi-tenant SaaS platforms with scalable backend systems and complex business workflows.
+
+- 🌐 **Full-Stack & Mobile Engineering**: Building end-to-end web and cross-platform mobile applications using React, Next.js, TypeScript, Node.js, React Native, Flutter, and Python.
+
+- ☁️ **Cloud, Infrastructure & DevOps**: Designing containerized, scalable architectures using Docker, Kubernetes, Redis, PostgreSQL, cloud infrastructure, and CI/CD practices.
+
+- 🔗 **Real-Time Systems & Integrations**: Engineering APIs, WebSockets, AI-powered voice agents, telephony integrations, event-driven workflows, and third-party service integrations.
 
 ---
 
@@ -83,6 +93,14 @@ const anish = {
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FFA611?style=for-the-badge&logo=firebase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### 🗄️ Vector Databases & Search
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-00A98F?style=for-the-badge&logo=weaviate&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -139,31 +157,6 @@ const anish = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=0anish0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" />
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=0anish0&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" />
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0anish0&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="GitHub Activity Graph" style="border-radius: 8px; width: 100%;" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=0anish0&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -187,11 +180,10 @@ const anish = {
 <div align="center">
 
 ```diff
-+ 🚀 Full Stack Development
-+ 🤖 AI/ML Engineering
++ 🚀 AI Full-Stack Engineer
 + 💬 Chatbot & LLM Integration
 + ☁️ Cloud Architecture & DevOps
-+ 📱 Mobile App Development
++ 📱 Cross-Platform Mobile App Developer
 ```
 
 **Let's build something amazing together!** 
